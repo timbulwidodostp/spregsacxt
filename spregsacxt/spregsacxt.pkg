@@ -1,4 +1,8 @@
-D 'DEA': Data envelopment analysis
+D 'spregsacxt': Estimate maximum likelihood estimation spatial autoCorrelation (SAC) panel regression Use spregsacxt With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F spregsacxt.ado
+F spregsacxt.dlg
+F spregsacxt.sthlp
+F spregsacxt1.ado
+F spregsacxt2.ado
+F spregsacxt3.ado
