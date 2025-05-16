@@ -1,6 +1,8 @@
 # spregsacxt
 Estimate maximum likelihood estimation spatial autoCorrelation (SAC) panel regression Use spregsacxt With STATA 19
 
+https://www.youtube.com/watch?v=hLjq2tnehsc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
